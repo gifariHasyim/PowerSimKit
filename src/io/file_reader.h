@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+
 #ifndef FILE_READER_H
 #define FILE_READER_H
 
