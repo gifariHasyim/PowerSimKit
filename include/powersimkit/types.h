@@ -20,6 +20,7 @@ typedef struct {
 } Bus;
 
 typedef struct {
+//    int id;
     int from_bus;
     int to_bus;
     double r;  // resistance
